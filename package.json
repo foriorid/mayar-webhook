@@ -4,6 +4,6 @@
   "type": "module",
   "main": "src/main.js",
   "dependencies": {
-    "node-appwrite": "^14.1.0"
+    "node-appwrite": "^29.0.0"
   }
 }
